@@ -652,7 +652,7 @@
   -moz-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   -o-transform: rotate(180deg);
-  transform: rotate(180deg);
+  transform: rotate(280deg);
 }
 .c100.p51 .bar {
   -webkit-transform: rotate(183.6deg);
@@ -963,11 +963,11 @@
   transform: rotate(338.40000000000003deg);
 }
 .c100.p95 .bar {
-  -webkit-transform: rotate(342deg);
-  -moz-transform: rotate(342deg);
-  -ms-transform: rotate(342deg);
-  -o-transform: rotate(342deg);
-  transform: rotate(342deg);
+  -webkit-transform: rotate(320deg);
+  -moz-transform: rotate(320deg);
+  -ms-transform: rotate(320deg);
+  -o-transform: rotate(320deg);
+  transform: rotate(360deg);
 }
 .c100.p96 .bar {
   -webkit-transform: rotate(345.6deg);
